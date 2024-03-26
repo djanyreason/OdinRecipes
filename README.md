@@ -1,4 +1,5 @@
-# OdinRecipes
-Odin Project Foundations - Project: Recipes
+This repository is the Recipes project for The Odin Project Foundations course: https://www.theodinproject.com/lessons/foundations-recipes
 
-Basic Intro to HTML / HTML Foundations project via www.theodinproject.com
+This project is an introductory HTML project. It is a website with links to three recipes, each with an image, list of ingredients, and steps to prepare.
+
+The website can be seen live at https://djanyreason.github.io/OdinRecipes/
